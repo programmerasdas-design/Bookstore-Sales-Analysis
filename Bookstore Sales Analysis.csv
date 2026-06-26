@@ -1,0 +1,16 @@
+Day,Book,Category,Price,Quantity_Sold,Revenue
+1,Python Basics,Programming,150,12,1800
+2,Data Science Guide,Programming,200,10,2000
+3,Machine Learning,Programming,250,8,2000
+4,The Great Novel,Fiction,120,15,1800
+5,Mystery Nights,Fiction,100,18,1800
+6,World History,Education,180,9,1620
+7,Python Basics,Programming,150,14,2100
+8,Data Science Guide,Programming,200,11,2200
+9,Machine Learning,Programming,250,9,2250
+10,The Great Novel,Fiction,120,16,1920
+11,Mystery Nights,Fiction,100,20,2000
+12,World History,Education,180,10,1800
+13,Python Basics,Programming,150,15,2250
+14,Data Science Guide,Programming,200,12,2400
+15,Machine Learning,Programming,250,10,2500
